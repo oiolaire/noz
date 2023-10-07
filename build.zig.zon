@@ -1,0 +1,10 @@
+.{
+    .name = "noz",
+    .version = "0.0.1",
+    .dependencies = .{
+        .zigNostr = .{
+            .url = "https://github.com/trailriver/zig-nostr/archive/refs/tags/v0.0.2.tar.gz",
+            .hash = "1220c5b167601b011a3512dd48f722419408ecda57e3b01e99f1f3427ad1efe2c722",
+        }
+    }
+}
